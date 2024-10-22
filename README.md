@@ -1,5 +1,5 @@
 # Bike Sales - Excel Dashboard
-[Interactive Sheet](https://1drv.ms/x/c/268b40e9c494717a/EXX70k5jK9NGuHIHDEoSMHcB_iN43FpRqZIh3Q9BwtGqWA?e=Yq7jft&nav=MTVfe0NERjI4QTZCLURCNzYtNDhEQi1CM0QzLTJCNkVCOUM3QjJCMH0)
+[Interactive Sheet](https://1drv.ms/x/c/268b40e9c494717a/EXX70k5jK9NGuHIHDEoSMHcBaXmVhBKJzEYXAN82RWSLew?e=u4bxYH)
 
 Basic Excel dashboard created using pivot tables & a dataset which contained a variety of information pertaining to customers who did or did not purchase bikes.
 
